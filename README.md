@@ -12,6 +12,7 @@ This chip has 5 versions:<br>
 
 **V1.0.0**
 '''
+
 Basic version with single LED flashing capabilities. 
 
 Pros:
