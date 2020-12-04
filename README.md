@@ -16,17 +16,17 @@ Basic version with single LED flashing capabilities.
 
 Pros:
 
--Can flash the LED at different frequencies based on input voltage
+- Can flash the LED at different frequencies based on input voltage
 
--Small size factor only taking 10-12cms in area.
+- Small size factor only taking 10-12cms in area.
 
 Cons:
 
--Bad timing and frquency control
+- Bad timing and frquency control
 
--Structural issues-size-alignment
+- Structural issues-size-alignment
 
--Voltage vulnerabilities ( cannot handle 1 volt higher than 20 volts)
+- Voltage vulnerabilities ( cannot handle 1 volt higher than 20 volts)
 
 Image:
 ![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1/4.jpg?raw=true)
@@ -54,7 +54,7 @@ Cons:
 - Cannot work with SMD LED's due to sudden changes in the voltage
 
 Image:
-
+![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1a/1.png?raw=true)
 
 
 
