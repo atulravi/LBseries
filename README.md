@@ -11,20 +11,24 @@ This chip has 5 versions:<br>
 - v1.0.3-4th edition with physical changes but with fatal circuit flaws.
 
 **V1.0.0**
-'''
 
 Basic version with single LED flashing capabilities. 
 
 Pros:
+
 -Can flash the LED at different frequencies based on input voltage
+
 -Small size factor only taking 10-12cms in area.
 
 Cons:
+
 -Bad timing and frquency control
+
 -Structural issues| size | alignment
+
 -Voltage vulnerabilities ( cannot handle 1 volt higher than 20 volts)
 
 Image:
 ![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1/4.jpg?raw=true)
 
-'''
+
