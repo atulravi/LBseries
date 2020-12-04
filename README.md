@@ -31,4 +31,32 @@ Cons:
 Image:
 ![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1/4.jpg?raw=true)
 
+**V1.0.1**
+
+This is the second version with many major improvemnets but with the addition of different flaws
+
+Pros:
+
+- Can flash the LED at better frequencies which are accurate
+
+- Mild reduction in voltage consumption
+
+- Size made smaller in X and Y axis
+
+- Can work with voltages between 11-20 volts
+
+Cons:
+
+- Cannot handle high volatge and high current LED's
+
+- Voltage change can be fatal if increased above the limit
+
+- Cannot work with SMD LED's due to sudden changes in the voltage
+
+Image:
+
+
+
+
+
 
