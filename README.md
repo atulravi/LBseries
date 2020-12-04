@@ -24,7 +24,7 @@ Cons:
 
 -Bad timing and frquency control
 
--Structural issues| size | alignment
+-Structural issues-size-alignment
 
 -Voltage vulnerabilities ( cannot handle 1 volt higher than 20 volts)
 
