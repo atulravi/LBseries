@@ -24,6 +24,6 @@ Cons:
 -Voltage vulnerabilities ( cannot handle 1 volt higher than 20 volts)
 
 Image:
-![alt text](https://github.com/ESCcrascirepository/LBseries/blob/V1.0.1/4.jpg?raw=true)
+![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1/4.jpg?raw=true)
 
 
