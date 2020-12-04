@@ -54,6 +54,7 @@ Cons:
 - Cannot work with SMD LED's due to sudden changes in the voltage
 
 Image:
+
 ![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1a/1.png?raw=true)
 
 
