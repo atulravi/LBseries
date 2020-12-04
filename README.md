@@ -55,7 +55,7 @@ Cons:
 
 Image:
 
-![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1a/3.png?raw=true)
+![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1a/4.png?raw=true)
 
 
 
