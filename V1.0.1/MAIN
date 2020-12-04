@@ -1,0 +1,29 @@
+V1.0.0 [DEPRECIATED]
+This is the very first version of the LB chip.
+
+Components Used!
+•	BC547-NPN
+•	100uF capacitor
+•	Resistor Legs
+•	Proto Board
+Version steps:
+Uses the BC 547 as the brain of the LED flasher circuit. This chip uses the EMITTER and COLLECTOR legs of the BC547. 
+For the timing, capacitors of various values were tested and the 100uF capacitor was chosen. 
+Based on the reaction of the LED, it has been determined that the chip is working/blinking the LED at a frequency of 100blinks/sec
+For the design and beauty, the chip is coated with melted rubber.
+
+Total chip cost:
+•	Chip without coating: $1
+•	Chip with coating: $1.50
+
+Chip Photos:
+  (see images in the folder)
+  *IMG1
+  *IMG2
+  *IMG3
+  *IMG4
+  
+  
+Typical usage diagram:
+ (see images in the folder)
+ *simpleusagediagram
