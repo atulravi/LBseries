@@ -83,7 +83,7 @@ Cons:
 
 Image:
 
-![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.2/1.jpg?raw=true)
+![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.2/2.png?raw=true)
 
 
 
