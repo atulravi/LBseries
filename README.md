@@ -57,6 +57,36 @@ Image:
 
 ![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.1a/4.png?raw=true)
 
+**V1.0.2**
+
+Second version of the chip with structural changes.
+
+Changes:
+
+- Chip is mounted on PCB with better rigidity
+
+Pros:
+
+- Stronger, harder and easier to use
+
+- Large footprint
+
+- Better frequency control
+
+Cons:
+
+-  Large size, canot fit on breadbpard without bending of legs
+
+- Bad voltage control
+
+- Excessive resistance between connection points.
+
+Image:
+
+![alt text](https://github.com/ESCcrascirepository/LBseries/blob/main/V1.0.2/1.jpg?raw=true)
+
+
+
 
 
 
