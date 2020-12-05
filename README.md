@@ -33,7 +33,7 @@ Image:
 
 **V1.0.1**
 
-This is the second version with many major improvemnets but with the addition of different flaws
+This is the second changed version with many major improvemnets but with the addition of different flaws
 
 Pros:
 
@@ -59,7 +59,7 @@ Image:
 
 **V1.0.2**
 
-Second version of the chip with structural changes.
+Third change of the chip with structural changes.
 
 Changes:
 
